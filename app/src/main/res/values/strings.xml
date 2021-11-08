@@ -3,4 +3,5 @@
     <string name="peso">Peso</string>
     <string name="talla">Talla</string>
     <string name="IMC">IMC</string>
+    <string name="calcular">Calcular</string>
 </resources>
