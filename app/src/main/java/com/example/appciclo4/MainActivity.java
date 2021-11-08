@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
                 DecimalFormat df = new DecimalFormat("#.##");
                 Result_IMC.append(String.valueOf(df.format(resultado)));
+
             }
         });
 
