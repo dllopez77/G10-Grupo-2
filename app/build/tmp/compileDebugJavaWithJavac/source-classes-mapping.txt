@@ -1,0 +1,5 @@
+com/example/appciclo4/BuildConfig.java
+ com.example.appciclo4.BuildConfig
+com/example/appciclo4/MainActivity.java
+ com.example.appciclo4.MainActivity
+ com.example.appciclo4.MainActivity$1
