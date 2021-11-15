@@ -1,5 +1,13 @@
+com/example/appciclo4/RegistrosViewHolder.java
+ com.example.appciclo4.RegistrosViewHolder
+com/example/appciclo4/AdapterRegistros.java
+ com.example.appciclo4.AdapterRegistros
 com/example/appciclo4/BuildConfig.java
  com.example.appciclo4.BuildConfig
+com/example/appciclo4/model/RegistroImc.java
+ com.example.appciclo4.model.RegistroImc
 com/example/appciclo4/MainActivity.java
  com.example.appciclo4.MainActivity
  com.example.appciclo4.MainActivity$1
+ com.example.appciclo4.MainActivity$2
+ com.example.appciclo4.MainActivity$3

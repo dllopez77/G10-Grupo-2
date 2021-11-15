@@ -4,4 +4,7 @@
     <string name="talla">Talla</string>
     <string name="IMC">IMC</string>
     <string name="calcular">Calcular</string>
+    <string name="ver_registros">Ver Registros</string>
+    <string name="fecha_registro">Fecha Registro</string>
+    <string name="Nuevo_Registro">Nuevo Registro</string>
 </resources>

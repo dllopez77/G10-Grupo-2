@@ -1821,6 +1821,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selection_band_overlay
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1828,14 +1829,18 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id Btn_Calcula_IMC
+id Btn_Ver_Registros
 id CTRL
 id FUNCTION
+id Layout_Formulario
+id Layout_Registros
 id Lbl_IMC
 id Lbl_IMC_RES
 id Lbl_Peso
 id Lbl_Talla
 id META
 id NO_DEBUG
+id Nuevo_Registro
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2045,6 +2050,10 @@ id image
 id immediateStop
 id included
 id info
+id info_fechareg
+id info_imc
+id info_peso
+id info_talla
 id invisible
 id inward
 id italic
@@ -2061,6 +2070,7 @@ id line3
 id linear
 id listMode
 id list_item
+id lista_registros
 id masked
 id match_constraint
 id match_parent
@@ -2383,6 +2393,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout layout_custom_registros
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2455,6 +2466,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string IMC
+string Nuevo_Registro
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2496,6 +2508,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string fecha_registro
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2563,6 +2576,7 @@ string peso
 string search_menu_title
 string status_bar_notification_info_overflow
 string talla
+string ver_registros
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
